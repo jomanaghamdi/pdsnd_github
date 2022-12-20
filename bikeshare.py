@@ -136,7 +136,8 @@ def trip_duration_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
-
+def GPA():
+    print("5 out of 5")
 
 def user_stats(df, city):
     """Displays statistics on bikeshare users."""
