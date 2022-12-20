@@ -141,6 +141,7 @@ def GPA():
 
 def printInf():
     print("Jumanah Alghamdi")
+    print("Computer science")
 
 def user_stats(df, city):
     """Displays statistics on bikeshare users."""
