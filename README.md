@@ -21,3 +21,7 @@ washington.csv
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+### Softwares needed
+Python 3, NumPy, and Pandas installed using Anaconda
+A text editor, like VS Code or Atom.
+A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
