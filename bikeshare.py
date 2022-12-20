@@ -139,6 +139,9 @@ def trip_duration_stats(df):
 def GPA():
     print("5 out of 5")
 
+def printInf():
+    print("Jumanah Alghamdi")
+
 def user_stats(df, city):
     """Displays statistics on bikeshare users."""
 
